@@ -1,0 +1,51 @@
+,ItemName,Category,UnitPrice,Supplier;;ItemName;Category;Supplier;ItemSupplier;UnitPrice;;;;;
+0,Desk Chair,Furniture,144.89,TechMart Inc.;0;Desk Chair;Furniture;TechMart Inc.;X1Y1;144,89;;;Kendala 1;;
+1,Stapler,Office Supplies,10.34,CloudSoft Corp.;1;Stapler;Office Supplies;CloudSoft Corp.;X2Y2;10,34;;;ItemName;;MINIMAL
+2,Annual Software License,Software,6806.97,TechMart Inc.;2;Annual Software License;Software;TechMart Inc.;X3Y1;6806,97;;;Desk Chair;X1;15
+3,Notepad,Stationery,2.47,FurniWorks Ltd.;3;Notepad;Stationery;FurniWorks Ltd.;X4Y3;2,47;;;Stapler;X2;50
+4,Notepad,Stationery,2.07,TechMart Inc.;4;Notepad;Stationery;TechMart Inc.;X4Y1;2,07;;;Annual Software License;X3;10
+5,Printer,Electronics,205.00,FurniWorks Ltd.;5;Printer;Electronics;FurniWorks Ltd.;X5Y3;205;;;Notepad;X4;50
+6,Notepad,Stationery,1.92,OfficeSupplies Co.;6;Notepad;Stationery;OfficeSupplies Co.;X4Y4;1,92;;;Printer;X5;2
+8,Printer Ink,Stationery,13.18,FurniWorks Ltd.;8;Printer Ink;Stationery;FurniWorks Ltd.;X6Y3;13,18;;;Printer Ink;X6;10
+9,Whiteboard,Furniture,137.96,FurniWorks Ltd.;9;Whiteboard;Furniture;FurniWorks Ltd.;X7Y3;137,96;;;Whiteboard;X7;1
+10,Annual Software License,Software,8610.52,QuickDeliver Ltd.;10;Annual Software License;Software;QuickDeliver Ltd.;X3Y5;8610,52;;;Monitor;X8;12
+12,Stapler,Office Supplies,10.03,FurniWorks Ltd.;12;Stapler;Office Supplies;FurniWorks Ltd.;X2Y3;10,03;;;Laptop Bag;X9;10
+14,Notepad,Stationery,1.80,QuickDeliver Ltd.;14;Notepad;Stationery;QuickDeliver Ltd.;X4Y5;1,8;;;Laptop;X10;10
+15,Monitor,Electronics,277.26,QuickDeliver Ltd.;15;Monitor;Electronics;QuickDeliver Ltd.;X8Y5;277,26;;;;;170
+16,Laptop Bag,Accessories,33.41,FurniWorks Ltd.;16;Laptop Bag;Accessories;FurniWorks Ltd.;X9Y3;33,41;;;Kendala 2;;
+18,Laptop,Electronics,891.89,TechMart Inc.;18;Laptop;Electronics;TechMart Inc.;X10Y1;891,89;;;TechMart Inc.;Y1;
+23,Whiteboard,Furniture,146.11,QuickDeliver Ltd.;23;Whiteboard;Furniture;QuickDeliver Ltd.;X7Y5;146,11;;;CloudSoft Corp.;Y2;
+25,Desk Chair,Furniture,143.47,OfficeSupplies Co.;25;Desk Chair;Furniture;OfficeSupplies Co.;X1Y4;143,47;;;FurniWorks Ltd.;Y3;
+26,Annual Software License,Software,7380.95,FurniWorks Ltd.;26;Annual Software License;Software;FurniWorks Ltd.;X3Y3;7380,95;;;OfficeSupplies Co.;Y4;
+28,Laptop Bag,Accessories,30.10,OfficeSupplies Co.;28;Laptop Bag;Accessories;OfficeSupplies Co.;X9Y4;30,1;;;QuickDeliver Ltd.;Y5;
+29,Printer,Electronics,228.69,OfficeSupplies Co.;29;Printer;Electronics;OfficeSupplies Co.;X5Y4;228,69;;;;;
+30,Laptop,Electronics,891.73,QuickDeliver Ltd.;30;Laptop;Electronics;QuickDeliver Ltd.;X10Y5;891,73;;;Kendala 3;;
+32,Monitor,Electronics,276.95,TechMart Inc.;32;Monitor;Electronics;TechMart Inc.;X8Y1;276,95;;;Budget;;
+33,Desk Chair,Furniture,121.89,CloudSoft Corp.;33;Desk Chair;Furniture;CloudSoft Corp.;X1Y2;121,89;;;;;
+36,Printer Ink,Stationery,15.49,OfficeSupplies Co.;36;Printer Ink;Stationery;OfficeSupplies Co.;X6Y4;15,49;;;;;
+38,Laptop,Electronics,922.30,FurniWorks Ltd.;38;Laptop;Electronics;FurniWorks Ltd.;X10Y3;922,3;;;;;
+39,Printer,Electronics,231.44,QuickDeliver Ltd.;39;Printer;Electronics;QuickDeliver Ltd.;X5Y5;231,44;;;;;
+43,Stapler,Office Supplies,9.48,TechMart Inc.;43;Stapler;Office Supplies;TechMart Inc.;X2Y1;9,48;;;;;
+46,Monitor,Electronics,296.28,FurniWorks Ltd.;46;Monitor;Electronics;FurniWorks Ltd.;X8Y3;296,28;;;;;
+48,Stapler,Office Supplies,10.25,OfficeSupplies Co.;48;Stapler;Office Supplies;OfficeSupplies Co.;X2Y4;10,25;;;;;
+49,Desk Chair,Furniture,163.47,QuickDeliver Ltd.;49;Desk Chair;Furniture;QuickDeliver Ltd.;X1Y5;163,47;;;;;
+50,Whiteboard,Furniture,148.15,CloudSoft Corp.;50;Whiteboard;Furniture;CloudSoft Corp.;X7Y2;148,15;;;;;
+68,Notepad,Stationery,1.63,CloudSoft Corp.;68;Notepad;Stationery;CloudSoft Corp.;X4Y2;1,63;;;;;
+74,Stapler,Office Supplies,10.81,QuickDeliver Ltd.;74;Stapler;Office Supplies;QuickDeliver Ltd.;X2Y5;10,81;;;;;
+85,Whiteboard,Furniture,156.94,TechMart Inc.;85;Whiteboard;Furniture;TechMart Inc.;X7Y1;156,94;;;;;
+87,Annual Software License,Software,7420.35,OfficeSupplies Co.;87;Annual Software License;Software;OfficeSupplies Co.;X3Y4;7420,35;;;;;
+89,Laptop,Electronics,887.12,CloudSoft Corp.;89;Laptop;Electronics;CloudSoft Corp.;X10Y2;887,12;;;;;
+92,Monitor,Electronics,271.06,CloudSoft Corp.;92;Monitor;Electronics;CloudSoft Corp.;X8Y2;271,06;;;;;
+99,Laptop Bag,Accessories,30.33,QuickDeliver Ltd.;99;Laptop Bag;Accessories;QuickDeliver Ltd.;X9Y5;30,33;;;;;
+101,Printer,Electronics,216.14,TechMart Inc.;101;Printer;Electronics;TechMart Inc.;X5Y1;216,14;;;;;
+103,Printer Ink,Stationery,16.06,CloudSoft Corp.;103;Printer Ink;Stationery;CloudSoft Corp.;X6Y2;16,06;;;;;
+105,Whiteboard,Furniture,160.06,OfficeSupplies Co.;105;Whiteboard;Furniture;OfficeSupplies Co.;X7Y4;160,06;;;;;
+110,Laptop Bag,Accessories,35.17,TechMart Inc.;110;Laptop Bag;Accessories;TechMart Inc.;X9Y1;35,17;;;;;
+117,Printer Ink,Stationery,16.41,QuickDeliver Ltd.;117;Printer Ink;Stationery;QuickDeliver Ltd.;X6Y5;16,41;;;;;
+129,Laptop Bag,Accessories,30.62,CloudSoft Corp.;129;Laptop Bag;Accessories;CloudSoft Corp.;X9Y2;30,62;;;;;
+133,Laptop,Electronics,894.01,OfficeSupplies Co.;133;Laptop;Electronics;OfficeSupplies Co.;X10Y4;894,01;;;;;
+135,Printer Ink,Stationery,15.95,TechMart Inc.;135;Printer Ink;Stationery;TechMart Inc.;X6Y1;15,95;;;;;
+141,Annual Software License,Software,5936.18,CloudSoft Corp.;141;Annual Software License;Software;CloudSoft Corp.;X3Y2;5936,18;;;;;
+147,Desk Chair,Furniture,158.31,FurniWorks Ltd.;147;Desk Chair;Furniture;FurniWorks Ltd.;X1Y3;158,31;;;;;
+148,Printer,Electronics,224.94,CloudSoft Corp.;148;Printer;Electronics;CloudSoft Corp.;X5Y2;224,94;;;;;
+231,Monitor,Electronics,348.58,OfficeSupplies Co.;231;Monitor;Electronics;OfficeSupplies Co.;X8Y4;348,58;;;;;
